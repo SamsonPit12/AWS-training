@@ -1,0 +1,20 @@
+{
+    "cloudone": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-cloudcode-cloudone-183219-authRole",
+            "UnauthRoleArn": "arn:aws:iam::116552805571:role/amplify-cloudcode-cloudone-183219-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::116552805571:role/amplify-cloudcode-cloudone-183219-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-cloudcode-cloudone-183219-deployment",
+            "UnauthRoleName": "amplify-cloudcode-cloudone-183219-unauthRole",
+            "StackName": "amplify-cloudcode-cloudone-183219",
+            "StackId": "arn:aws:cloudformation:us-east-1:116552805571:stack/amplify-cloudcode-cloudone-183219/c3cf4780-3f01-11ea-97d2-0a54954134e7",
+            "AmplifyAppId": "dstj0cq0xm7b9"
+        },
+        "categories": {
+            "auth": {
+                "cloudcode1d49163e": {}
+            }
+        }
+    }
+}

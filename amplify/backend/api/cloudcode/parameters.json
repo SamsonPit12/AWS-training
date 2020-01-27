@@ -1,0 +1,11 @@
+{
+    "AppSyncApiName": "cloudcode",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": "false",
+    "AuthCognitoUserPoolId": {
+        "Fn::GetAtt": [
+            "authcloudcode1d49163e",
+            "Outputs.UserPoolId"
+        ]
+    }
+}
